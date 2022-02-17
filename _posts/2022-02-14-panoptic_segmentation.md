@@ -27,12 +27,11 @@ $$(l_i, z_i)$$ pair.
 
 ## Literature survey
 
-{% cite "Kirillov_2019_CVPR" %} from FAIR labs gives a good overview of
+from FAIR labs gives a good overview of
 the task along with it's challenges, datasets available and a new metric. 
 
 ## References
 
-{% bibliography --file panoptic --cited_in_order %}
 
 
 
